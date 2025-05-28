@@ -52,3 +52,70 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+
+## Build artifacts
+bin/
+obj/
+out/
+
+## Rider & VS Code
+.idea/
+.vscode/
+
+## User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Visual Studio
+.vs/
+Generated_Code/
+
+## ASP.NET
+*.dbmdl
+*.bak
+*.log
+
+## Entity Framework
+Migrations/
+
+## Configuration files
+appsettings.Development.json
+appsettings.Local.json
+
+## NuGet
+*.nupkg
+packages/
+*.snupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## Logs
+*.log
+
+## Test results
+TestResults/
+*.trx
+
+## Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+## Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+
+## DotCover
+*.dotCover
+
+## Others
+*.DS_Store
+Thumbs.db
+
+## Ignore secrets if used
+secrets.json

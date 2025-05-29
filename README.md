@@ -45,7 +45,7 @@
 git clone https://github.com/JonnyYamagushi/DesafioFundamentosCSharp.git
 
 # Acesse a pasta do projeto
-cd nome-do-repositorio
+cd DesafioFundamentosCSharp
 
 # Compile e execute
 dotnet run
@@ -72,7 +72,7 @@ dotnet run
 
 ## 🙌 Créditos
 
-Desenvolvido por [Rocketseat](https://www.rocketseat.com.br/) como parte do desafio de fundamentos.
+Desenvolvido por [Jonny Yamagushi](https://github.com/JonnyYamagushi) como parte do Desafio de Fundamentos de C# da [Rocketseat](https://www.rocketseat.com.br/).
 
 ---
 

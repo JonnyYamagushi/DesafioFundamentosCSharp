@@ -59,7 +59,6 @@ dotnet run
 .
 ├── Program.cs         // Classe principal com o menu e funcionalidades
 ├── Functions.cs       // Métodos auxiliares para validação e entrada de dados
-├── README.md          // Este arquivo
 ```
 
 ---
